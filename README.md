@@ -71,4 +71,4 @@ KPI Indicators
 Slicers & Filters
 Interactive Dashboard Design
 
-screenshot of project =  
+screenshot of project =  https://github.com/harshit589/Blinkit-dashboard/blob/main/blinkit%20dashboard%20screenshot%20.png
