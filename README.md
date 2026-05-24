@@ -7,7 +7,6 @@ The dashboard helps in understanding key business metrics and identifying trends
 
 📊 Dashboard Preview
 
-(Add your dashboard screenshot here in GitHub)
 
 🎯 Project Objectives
 Analyze overall sales performance of Blinkit outlets.
